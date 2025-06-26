@@ -5,9 +5,9 @@ Computer simulator of driving a car. The game has good physics. There are small 
 The source code and the compiled working game are stored in releases. There is also a second version of the game code. Where there is a menu. It was created by Water_Bucket.
 
 ### 🌟 Creator
-**The_error**  Github: https://github.com/TheError227
+**The_error** https://github.com/TheError227
 
 ### 🔧 Developers
-**Water_Bucket**  Github: https://github.com/Roman12kYT
+**Water_Bucket** https://github.com/Roman12kYT
 
 ![Screenshot from the game](CRS.png)
