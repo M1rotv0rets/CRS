@@ -10,4 +10,4 @@ The source code and the compiled working game are stored in releases. There is a
 ### 🔧 Developers
 **Water_Bucket**  Github: https://github.com/Roman12kYT
 
-![Screenshot from the game](CRS.png"Appearance")
+![Screenshot from the game](CRS.png)
