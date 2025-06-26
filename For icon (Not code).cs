@@ -8,3 +8,4 @@ public class HelloWorld
         Console.WriteLine("Привет, мир!");
     }
 }
+!!!THE SOURCE CODE AND WORKING COMPILED VERSION ARE IN RELEASES.!!!
