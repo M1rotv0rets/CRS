@@ -7,4 +7,4 @@ The source code and the compiled working game are stored in releases.
 ### 🌟 Creator
 **The_error** Github: https://github.com/TheError227
 
-!
+![Screenshot from the game](CRS.png)
